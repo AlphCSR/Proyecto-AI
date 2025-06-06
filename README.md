@@ -27,8 +27,8 @@ Este proyecto implementa modelos de Machine Learning para predecir la calidad de
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-ia-vino.git
-   cd proyecto-ia-vino
+   git clone https://github.com/AlphCSR/Proyecto-AI.git
+   cd proyecto-ia
    ```
 
 2. Crea y activa un entorno virtual (recomendado):
