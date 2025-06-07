@@ -81,7 +81,7 @@ python -m train_models
 ```
 
 * Cesar Leon 27741713
-* Alejandro Ceijas 27426702 
+* Alejandro Seijas 27426702 
 * Linda Gruber 29826397
 * Nicolas Dias 27488913
 * Daniel Cohen 27254276
